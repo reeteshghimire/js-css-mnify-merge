@@ -1,0 +1,1 @@
+console.log('style.js');var a = window.innerHeight;console.log('slider.js');var c = window.innerHeight;console.log('gallery.js');var b = window.innerHeight;
